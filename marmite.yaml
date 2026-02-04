@@ -1,8 +1,9 @@
-tagline: ''
+name: "Associação Python Brasil"
+tagline: 'Blog com atualizações mensais das atividades da APyB'
 url: ''
 https: null
-footer: <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <small><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY_NC-SA</a></small></div>
-language: ''
+footer: <div>Feito com ❤️ pela APyB com <a href="https://github.com/rochacbruno/marmite">Marmite</a></div>
+language: 'pt-br'
 pagination: 10
 pages_title: Pages
 tags_title: Tags
@@ -25,16 +26,13 @@ media_path: media
 card_image: ''
 banner_image: ''
 logo_image: ''
-default_date_format: '%b %e, %Y'
+default_date_format: '%d/%m/%Y'
 menu:
-- - Tags
-  - tags.html
-- - Archive
+- - Arquivo
   - archive.html
-- - About
-  - about.html
 extra:
   colorscheme: one
+  colormodetoggle: true
 authors: {
   "APyB": {
     "name": "APyB",

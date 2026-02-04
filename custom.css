@@ -1,1 +1,36 @@
-/* Custom CSS */
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("/media/background.png");
+    background-repeat: repeat;
+    background-position: top left;
+    background-size: auto;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 0.18;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main.container {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+section.main-content {
+    flex: 1 0 auto;
+}
+
+footer.footer-content {
+    margin-top: auto;
+}
