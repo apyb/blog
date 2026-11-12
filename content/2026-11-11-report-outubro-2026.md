@@ -16,4 +16,4 @@ Durante o encerramento da Python Brasil 2026 tivemos a cerimônia de entrega do 
 No dia 31/10 tivemos a nossa Assembleia Geral 2026, onde votamos a cidade-sede da Python Brasil 2028. Tivemos apenas a candidatura de Belo Horizonte/MG, que recebeu 24 votos a favor e 0 votos contra. Portanto, BH será a sede da PyBR em 2028!
 
 Durante a assembleia estreamos a nossa instância do sistema de votação [Helios](https://vote.heliosvoting.org/), que o diretor de tecnologia configurou para ser utilizada nas votações da APyB.
-É o mesmo sistema open-source utilizado nas votações da PSF, e não tivemos nenhuma intercorrência durante o uso.
+Um sistema open-source e verificável, e não tivemos nenhuma intercorrência durante o uso.
